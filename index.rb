@@ -27,6 +27,9 @@
 	<ol>
 		<li><a href="printer_invoerformulier.php" target="_parent">Printers</a></li>
 	</ol>
+<ruby>
+        say hallo
+</ruby>
 
 </body>
 </html>
